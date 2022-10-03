@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0422fd8ef0e97c71",
+        "id": "fb15e1b9439916a3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript设计模式.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,11 +110,8 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript设计模式.md"
-              }
+              "state": {}
             }
-          }
         ],
         "currentTab": 3
       }
@@ -129,11 +120,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "afa52f7e92fbea11",
+  "active": "fb15e1b9439916a3",
   "lastOpenFiles": [
-    "2022-09-27.md",
-    "JavaScript设计模式.md",
+    "工作中遇到的技术问题.md",
     "Designing_Fluid_Interfaces.md",
+    "JavaScript设计模式.md",
+    "Drawing 2022-09-27 19.28.40.excalidraw.md",
     "新技术/20220913.md"
   ]
 }

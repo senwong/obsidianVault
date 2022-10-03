@@ -1,3 +1,5 @@
 {
-  "translucency": true
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": ""
 }
