@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "176221a83ef6150d",
+    "id": "107d66f6c650687f",
     "type": "split",
     "children": [
       {
-        "id": "0422fd8ef0e97c71",
+        "id": "dbc58e12c0a301be",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d5dc7aa7ac5ee02",
+    "id": "8976fa75dc487a68",
     "type": "split",
     "children": [
       {
-        "id": "6226f8df7281baa1",
+        "id": "d4939e7846d978ce",
         "type": "tabs",
         "children": [
           {
-            "id": "94df8b14695d0fe7",
+            "id": "74a2f53026d1b8fa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "b68cd2ffedf18d48",
+            "id": "f80c941b27f06de5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "9345beb092b40ebc",
+            "id": "8fe021e65945bccb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "a45edd359843c768",
+    "id": "5eeefc35b69db757",
     "type": "split",
     "children": [
       {
-        "id": "7bdbce0c601e2388",
+        "id": "fd5ae5419742944b",
         "type": "tabs",
         "children": [
           {
-            "id": "be49ddb393f6fac8",
+            "id": "defdaaf7600f1e94",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "123c64fe32d1ef1e",
+            "id": "03fa8fc02c77472e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -101,7 +101,7 @@
             }
           },
           {
-            "id": "eec7e3fb3779e51b",
+            "id": "d1c7521ff3b37fdb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "afa52f7e92fbea11",
+            "id": "5ba5e6a812756280",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -126,14 +126,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0422fd8ef0e97c71",
+  "active": "74a2f53026d1b8fa",
   "lastOpenFiles": [
-    "JavaScript设计模式.md",
-    "2022-09-27.md",
-    "Designing_Fluid_Interfaces.md",
-    "新技术/20220913.md"
+    "2022-10-09.md",
+    "JavaScript设计模式.md"
   ]
 }
