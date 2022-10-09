@@ -11,7 +11,7 @@
           "state": {
             "file": "inside_browser_阅读笔记.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -128,7 +128,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "74a2f53026d1b8fa",
+  "active": "dbc58e12c0a301be",
   "lastOpenFiles": [
     "2022-10-09.md",
     "JavaScript设计模式.md"
