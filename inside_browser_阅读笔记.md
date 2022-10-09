@@ -3,11 +3,9 @@
 
 # Chrome浏览器架构
 
-## Brower Process
+## Browser Process
 - 说明：浏览器进程处理浏览器相关的事务，比如地址栏，书签，前进/后退按钮，网络请求和文件读取等
-
-## Utility Process
-
+- 
 ## Renderer  Process
 - 说明：渲染进程负责处理每个tab页的显示
 
@@ -42,7 +40,7 @@
 
 # 事件处理
 ## 处理过程
-事件处理的开始是`compositor thread`把input event给`main thread`，如果一块区域注册了事件，这块区域被标记为`non-fase scrollable region`，如果事件触发了，`compositor thread`等待`main thread`执行完事件处理函数，执行完毕之后`compositor thread`再合成新的一帧。
+事件处理的开始是`compositor thread`把input event给`main thread`，如果一块区域注册了事件，这块区域被标记为`non-fast scrollable region`，如果事件触发了，`compositor thread`等待`main thread`执行完事件处理函数，执行完毕之后`compositor thread`再合成新的一帧。
 
 ## 事件聚合
 一些连续事件触发是非常频繁的，比如`touchemove`事件，触发频率肯定超过了屏幕的刷新率，这种情况下，如果每次触发时都去执行`main thread`的处理函数，肯定会造成页面卡顿，所以chrome会把连续事件聚合到一起，在下次`requestAnimationFrame`之前触发处理函数。  
@@ -66,6 +64,6 @@ window.addEventListener('pointermove', event => {
 
 ```
 ## 特别注意
-- 注册事件时避免注册到全局或者大的区域元素上，因为会把整块区域标记为`non-fase scrollable region`，每次合成时都要等待`main thread`处理事件函数，降低了合成速度，所以要尽量在小的元素上注册事件。
+- 注册事件时避免注册到全局或者大的区域元素上，因为会把整块区域标记为`non-fast scrollable region`，每次合成时都要等待`main thread`处理事件函数，降低了合成速度，所以要尽量在小的元素上注册事件。
 - 注册事件时，传入`passive: true`参数，可以让`compositor thread`不等待`main thread`。（但是`composite layer`合成`layer tree`是在`main thread`上进行的，事件处理函数还是会影响渲染速度）。
 - 
