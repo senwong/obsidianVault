@@ -66,4 +66,3 @@ window.addEventListener('pointermove', event => {
 ## 特别注意
 - 注册事件时避免注册到全局或者大的区域元素上，因为会把整块区域标记为`non-fast scrollable region`，每次合成时都要等待`main thread`处理事件函数，降低了合成速度，所以要尽量在小的元素上注册事件。
 - 注册事件时，传入`passive: true`参数，可以让`compositor thread`不等待`main thread`。（但是`composite layer`合成`layer tree`是在`main thread`上进行的，事件处理函数还是会影响渲染速度）。
-- 
