@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aeedad064dc9a332",
+        "id": "9b847a5f97de2a21",
         "type": "tabs",
         "children": [
           {
-            "id": "3028a13fcdea3809",
+            "id": "45831a7d713c33bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Refactoring-UI.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -44,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +61,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9768fda00c1c6ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -128,21 +139,66 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0e6ae926fc6567b7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 620.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
   },
-  "active": "284d69ba2e494983",
+  "active": "45831a7d713c33bd",
   "lastOpenFiles": [
-    "JavaScript设计模式.md",
+    "The_G_book/Chapter 1.md",
+    "便签.md",
+    "python/python.md",
+    "python/机器学习.md",
+    "2024-01-17.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "python/pytorch.md",
+    "python/python-for-data-analysis.md",
+    "python/随机森林.md",
+    "新技术/tech acticles.md",
+    "要学的技术点.md",
+    "面试.md",
     "inside_browser_阅读笔记.md",
-    "2022-10-09.md"
+    "Pasted image 20221219111527.png.md",
+    "Refactoring-UI.md",
+    "Pasted image 20221219111527.png",
+    "Pasted image 20230202180044.png",
+    "Pasted image 20230314102007.png",
+    "Pasted image 20230323101734.png",
+    "Pasted image 20230323101734的副本.png",
+    "python",
+    "JavaScript设计模式.md",
+    "Excalidraw/Drawing 2023-03-10 13.31.02.excalidraw.md",
+    "Excalidraw/Drawing 2022-12-26 17.05.24.excalidraw.md",
+    "Excalidraw/Drawing 2022-12-26 17.05.24_0.excalidraw.md",
+    "The Rust Programming Language.md",
+    "未命名 2.canvas",
+    "工作中遇到的技术问题.md",
+    "新技术/chorme.md",
+    "test.md"
   ]
 }
