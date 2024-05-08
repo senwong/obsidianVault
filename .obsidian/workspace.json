@@ -4,21 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "9b847a5f97de2a21",
+        "id": "6bcf807452e0af05",
         "type": "tabs",
         "children": [
           {
-            "id": "45831a7d713c33bd",
+            "id": "c081d9bdcb827a9c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Refactoring-UI.md",
-                "staged": false
+                "file": "JavaScript/chrome_university/Anatomy_of_the_browser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f55a2f1e954b318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/chrome_university/life_of_a_script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad7480569b90a44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/chrome_university/life_of_a_script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a6f5972a91c6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/面试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c8241bd34b45f6e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "面试/prototype.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b7c4b7f12774731c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新技术/tech acticles.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -57,14 +117,6 @@
             }
           },
           {
-            "id": "8fe021e65945bccb",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "b9768fda00c1c6ba",
             "type": "leaf",
             "state": {
@@ -76,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
     "id": "5eeefc35b69db757",
@@ -92,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "新技术/tech acticles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "新技术/tech acticles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "新技术/tech acticles.md"
+              }
             }
           },
           {
@@ -137,14 +193,6 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0e6ae926fc6567b7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -163,42 +211,60 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45831a7d713c33bd",
+  "active": "b7c4b7f12774731c",
   "lastOpenFiles": [
-    "The_G_book/Chapter 1.md",
+    "面试/准备面试.md",
+    "面试/字节面试.md",
+    "要学的技术点.md",
+    "面试/prototype.excalidraw.md",
+    "面试/a2.md",
+    "面试/event_loop.png",
+    "面试/面试.md",
+    "leetcode/todo.md",
+    "未命名",
+    "JavaScript/chrome_university/chorme_1.0_arch.png",
+    "JavaScript/chrome_university/Anatomy_of_the_browser.md",
+    "Excalidraw/life_of_a_script.md",
+    "leetcode/2618. 检查是否是类的对象实例.md",
+    "JavaScript/chrome_university/life_of_a_script.md",
+    "JavaScript/chrome_university/life_of_a_navigation.md",
+    "JavaScript/chrome_university/directory_layout.png",
+    "面试",
+    "Excalidraw/未命名.canvas",
+    "leetcode",
+    "Excalidraw/Drawing 2024-03-28 08.54.21.excalidraw.md",
+    "JavaScript/未命名.canvas",
+    "JavaScript/chrome_university/未命名.canvas",
+    "软技能/金字塔原理.md",
+    "软技能/Pasted image 20240328084621.png",
+    "软技能/Pasted image 20240328084455.png",
+    "软技能/Pasted image 20240328084419.png",
+    "软技能/Pasted image 20240328084208.png",
+    "软技能/Pasted image 20240328084014.png",
+    "软技能/Pasted image 20240328083959.png",
+    "软技能/Pasted image 20240328083939.png",
+    "软技能",
     "便签.md",
-    "python/python.md",
-    "python/机器学习.md",
-    "2024-01-17.md",
+    "JavaScript/build_blink.md",
+    "新技术/tech acticles.md",
+    "The_G_book/Chapter 1.md",
+    "Excalidraw/Drawing 2024-03-11 16.02.31.excalidraw.md",
+    "JavaScript/form-enter-submit-event.md",
+    "2024-03-12.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "python/pytorch.md",
-    "python/python-for-data-analysis.md",
-    "python/随机森林.md",
-    "新技术/tech acticles.md",
-    "要学的技术点.md",
-    "面试.md",
-    "inside_browser_阅读笔记.md",
-    "Pasted image 20221219111527.png.md",
-    "Refactoring-UI.md",
-    "Pasted image 20221219111527.png",
-    "Pasted image 20230202180044.png",
-    "Pasted image 20230314102007.png",
-    "Pasted image 20230323101734.png",
-    "Pasted image 20230323101734的副本.png",
+    "JavaScript/chrome_university",
+    "JavaScript/frontend-framework.md",
+    "JavaScript/clean react.md",
+    "python/机器学习.md",
+    "JavaScript",
+    "python/python.md",
+    "2024-01-17.md",
     "python",
-    "JavaScript设计模式.md",
-    "Excalidraw/Drawing 2023-03-10 13.31.02.excalidraw.md",
-    "Excalidraw/Drawing 2022-12-26 17.05.24.excalidraw.md",
-    "Excalidraw/Drawing 2022-12-26 17.05.24_0.excalidraw.md",
-    "The Rust Programming Language.md",
-    "未命名 2.canvas",
-    "工作中遇到的技术问题.md",
-    "新技术/chorme.md",
-    "test.md"
+    "未命名 2.canvas"
   ]
 }

@@ -67,3 +67,11 @@ https://github.com/DvorakDwarf/Infinite-Storage-Glitch
 
 
 
+
+
+
+什么是费曼学习法，学习一个概念之后，尝试用简单的语言解释这个概念，在解释的过程中，对于其中不好用语言表达的部分，返回去重新学习，直到你能够解释它，在解释的过程中也能弥补理解上的漏洞。
+
+
+node的web服务：
+https://github.com/uNetworking/uWebSockets.js

@@ -17,7 +17,7 @@ parsing, layout, executing javascript, decoding,
 插件进程 plugin process.未沙盒化
  NPAPI， Flash, Java, Reader etc...
 
-浏览器主进程main process
+浏览器主进程 main process
 协调者，浏览器状态，浏览器设置，处理网络请求。
 
 线程Threads
@@ -57,3 +57,8 @@ IDL based。
 
 文件目录
 ![[directory_layout.png]]
+
+
+## 浏览器输入地址发生了什么
+
+browser process 打开地址，通过dns 拿到返回结果，假设返回的是html文件, browser process 通过IPC把文件内容发送给Renderer Process，也就是Blink。Blink解析js, html和css，生成虚拟树DOM，CSSOM，合称为一张图片交给GPU渲染。

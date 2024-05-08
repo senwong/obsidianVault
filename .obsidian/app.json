@@ -1,5 +1,7 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "livePreview": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true
 }
