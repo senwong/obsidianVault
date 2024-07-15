@@ -8,18 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c081d9bdcb827a9c",
+            "id": "b7b7e75a89fc3a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/准备面试.md",
+                "file": "编程知识点/ElasticSearch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3afe7bbd0b6712b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程知识点/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "282ba5abad1e7cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程知识点/K8S.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b79df35fcd2563a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程知识点/network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043b6c44801c98b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程知识点/NodeJS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "778e742d3b763472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程知识点/chromium.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -69,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 351.5
   },
   "right": {
     "id": "5eeefc35b69db757",
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/准备面试.md",
+                "file": "编程知识点/chromium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/准备面试.md",
+                "file": "编程知识点/chromium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/准备面试.md"
+                "file": "编程知识点/chromium.md"
               }
             }
           },
@@ -156,53 +217,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c081d9bdcb827a9c",
+  "active": "778e742d3b763472",
   "lastOpenFiles": [
+    "编程知识点/JavaScript.md",
+    "编程知识点/字节面试记录.md",
+    "编程知识点/外包面试.md",
+    "编程知识点/a2.md",
+    "The_G_book/Chapter 1.md",
+    "JavaScript/build_blink.md",
+    "JavaScript/ninja_ls_targets.png",
+    "JavaScript/frontend-framework.md",
+    "JavaScript/clean react.md",
     "JavaScript/chrome_university/Anatomy_of_the_browser.md",
-    "面试/rebase-4.png",
-    "面试/rebase-3.png",
-    "面试/rebase-2.png",
-    "面试/rebase-1.png",
-    "面试/准备面试.md",
-    "JavaScript/chrome_university/life_of_a_script.md",
-    "面试/字节面试.md",
-    "面试/prototype.excalidraw.md",
-    "面试/http3.png",
-    "面试/a2.md",
-    "前端安全.md",
-    "面试/http_2_packetizaiton_file.png",
-    "面试/http1_1_vs_http_2.png",
-    "面试/面试.md",
-    "面试/http1_1_1.png",
-    "面试/tcp_three_way_handshake.png",
-    "新技术/tech acticles.md",
-    "要学的技术点.md",
-    "面试/event_loop.png",
-    "leetcode/todo.md",
-    "未命名",
-    "Excalidraw/life_of_a_script.md",
-    "leetcode/2618. 检查是否是类的对象实例.md",
-    "JavaScript/chrome_university/life_of_a_navigation.md",
-    "面试",
+    "inside_browser_阅读笔记.md",
+    "编程知识点/chromium.md",
+    "JavaScript/未命名.canvas",
+    "编程知识点/CSS.md",
+    "编程知识点/network.md",
+    "面试/前端知识点.md",
+    "编程知识点/Git.md",
+    "编程知识点/网络.md",
+    "编程知识点/测试.md",
+    "编程知识点/React.md",
+    "编程知识点/webpack.md",
+    "编程知识点/HTML.md",
+    "编程知识点/Redis.md",
+    "编程知识点/NodeJS.md",
+    "编程知识点/onion_model.excalidraw.md",
+    "FrontEnd",
+    "React.md",
+    "编程知识点/prototype.excalidraw.md",
+    "linux/Linux.md",
+    "linux",
+    "Pasted image 20240705094449.png",
+    "编程知识点/network-bridged.png",
+    "编程知识点/network-host-only.png",
+    "编程知识点/network-NAT.png",
+    "编程知识点/kubectl-api-resoruces.png",
+    "编程知识点/k8s_get_comp.png",
+    "backend",
+    "编程知识点/rebase-4.png",
+    "编程知识点/rebase-3.png",
+    "编程知识点/rebase-2.png",
+    "编程知识点",
     "Excalidraw/未命名.canvas",
     "leetcode",
-    "Excalidraw/Drawing 2024-03-28 08.54.21.excalidraw.md",
-    "JavaScript/未命名.canvas",
     "JavaScript/chrome_university/未命名.canvas",
-    "软技能/金字塔原理.md",
     "软技能",
-    "便签.md",
-    "JavaScript/build_blink.md",
-    "The_G_book/Chapter 1.md",
-    "Excalidraw/Drawing 2024-03-11 16.02.31.excalidraw.md",
-    "JavaScript/form-enter-submit-event.md",
-    "2024-03-12.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "JavaScript/chrome_university",
-    "JavaScript/frontend-framework.md",
-    "JavaScript/clean react.md",
-    "python/机器学习.md",
     "JavaScript",
     "python",
     "未命名 2.canvas"
