@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程知识点/chromium.md",
+                "file": "编程知识点/字节面试记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d55053ebe3d95407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程知识点/V8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8c4284943a1b068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程知识点/V8.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识点/chromium.md",
+                "file": "编程知识点/V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程知识点/chromium.md",
+                "file": "编程知识点/V8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程知识点/chromium.md"
+                "file": "编程知识点/V8.md"
               }
             }
           },
@@ -203,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5
+    "width": 478.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,10 +241,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "778e742d3b763472",
+  "active": "b8c4284943a1b068",
   "lastOpenFiles": [
+    "编程知识点/V8.md",
     "编程知识点/JavaScript.md",
     "编程知识点/字节面试记录.md",
+    "编程知识点/网络.md",
+    "编程知识点/K8S.md",
+    "软技能/learn how to learn.md",
+    "编程知识点/chromium.md",
     "编程知识点/外包面试.md",
     "编程知识点/a2.md",
     "The_G_book/Chapter 1.md",
@@ -230,13 +259,11 @@
     "JavaScript/clean react.md",
     "JavaScript/chrome_university/Anatomy_of_the_browser.md",
     "inside_browser_阅读笔记.md",
-    "编程知识点/chromium.md",
     "JavaScript/未命名.canvas",
     "编程知识点/CSS.md",
     "编程知识点/network.md",
     "面试/前端知识点.md",
     "编程知识点/Git.md",
-    "编程知识点/网络.md",
     "编程知识点/测试.md",
     "编程知识点/React.md",
     "编程知识点/webpack.md",
@@ -245,9 +272,6 @@
     "编程知识点/NodeJS.md",
     "编程知识点/onion_model.excalidraw.md",
     "FrontEnd",
-    "React.md",
-    "编程知识点/prototype.excalidraw.md",
-    "linux/Linux.md",
     "linux",
     "Pasted image 20240705094449.png",
     "编程知识点/network-bridged.png",

@@ -52,3 +52,7 @@ dom事件在触发是会经历2个阶段（Phase）先是捕获阶段，再是�
 
 ## cjs实现esm
 
+
+
+## Stream API
+参考：https://developer.mozilla.org/en-US/docs/Web/API/Streams_API
