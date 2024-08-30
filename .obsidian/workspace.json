@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7b7e75a89fc3a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程知识点/ElasticSearch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3afe7bbd0b6712b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程知识点/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "282ba5abad1e7cfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程知识点/K8S.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b79df35fcd2563a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程知识点/network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "043b6c44801c98b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程知识点/NodeJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "778e742d3b763472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程知识点/字节面试记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d55053ebe3d95407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程知识点/V8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8c4284943a1b068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程知识点/V8.md",
+                "file": "编程知识点/网络.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识点/V8.md",
+                "file": "编程知识点/网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程知识点/V8.md",
+                "file": "编程知识点/网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程知识点/V8.md"
+                "file": "编程知识点/网络.md"
               }
             }
           },
@@ -241,16 +156,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8c4284943a1b068",
+  "active": "d55053ebe3d95407",
   "lastOpenFiles": [
-    "编程知识点/V8.md",
-    "编程知识点/JavaScript.md",
-    "编程知识点/字节面试记录.md",
+    "编程知识点/TLS_1.2_handleshake.md",
     "编程知识点/网络.md",
+    "编程知识点/V8.md",
+    "编程知识点/ElasticSearch.md",
+    "编程知识点/chromium.md",
+    "编程知识点/tcp_three_way_handshake.png",
+    "编程知识点/CSS.md",
+    "Excalidraw/life_of_a_script.md",
+    "Excalidraw/Drawing 2024-08-06 09.51.17.excalidraw.md",
+    "编程知识点/event_loop.png",
+    "编程知识点/NodeJS.md",
+    "编程知识点/字节面试记录.md",
+    "编程知识点/vue3.md",
+    "软技能/批判性思维.md",
+    "编程知识点/外包面试.md",
+    "编程知识点/React.md",
+    "编程知识点/JavaScript.md",
     "编程知识点/K8S.md",
     "软技能/learn how to learn.md",
-    "编程知识点/chromium.md",
-    "编程知识点/外包面试.md",
     "编程知识点/a2.md",
     "The_G_book/Chapter 1.md",
     "JavaScript/build_blink.md",
@@ -260,17 +186,8 @@
     "JavaScript/chrome_university/Anatomy_of_the_browser.md",
     "inside_browser_阅读笔记.md",
     "JavaScript/未命名.canvas",
-    "编程知识点/CSS.md",
     "编程知识点/network.md",
     "面试/前端知识点.md",
-    "编程知识点/Git.md",
-    "编程知识点/测试.md",
-    "编程知识点/React.md",
-    "编程知识点/webpack.md",
-    "编程知识点/HTML.md",
-    "编程知识点/Redis.md",
-    "编程知识点/NodeJS.md",
-    "编程知识点/onion_model.excalidraw.md",
     "FrontEnd",
     "linux",
     "Pasted image 20240705094449.png",
@@ -281,8 +198,6 @@
     "编程知识点/k8s_get_comp.png",
     "backend",
     "编程知识点/rebase-4.png",
-    "编程知识点/rebase-3.png",
-    "编程知识点/rebase-2.png",
     "编程知识点",
     "Excalidraw/未命名.canvas",
     "leetcode",

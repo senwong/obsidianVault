@@ -15,3 +15,17 @@ app.use((ctx, next) => {
 ```
 middleware1 before => middleware2 before => middleware3 before => middleware3 after => middleware2 after => middleware1 after
 ```
+
+
+## nodejs如何调试
+使用vscode debugger terminal启动nodejs进程。
+*编译型语言debugger原理*
+CPU有*中断*机制，CPU执行完每条指令之后，会检查中断标记。
+软中断（INT指令），硬中断（中断寄存器DR0-DR3）
+
+*js中断原理*
+v8的debugger协议，V8 Debugger Protocol，debugger就是实现了这个协议，中断/执行js代码。
+nodejs的debugger协议：https://nodejs.org/en/learn/getting-started/debugging
+
+*DAP*
+适配各种语言的debugger协议：debugger adaptor protocol

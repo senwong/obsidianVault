@@ -56,3 +56,31 @@ dom事件在触发是会经历2个阶段（Phase）先是捕获阶段，再是�
 
 ## Stream API
 参考：https://developer.mozilla.org/en-US/docs/Web/API/Streams_API
+
+
+# DevTools
+
+## memory
+使用memory记录页面内存占用情况
+*参考资料：*
+https://v8.dev/blog/fast-properties
+https://developer.chrome.com/docs/devtools/memory-problems/get-started#object_sizes
+
+
+### 重要概念
+一个对象有两种形式的内存占用，对象自身占用的和引用其他对象时占用的内存。
+*Shallow Size*: 
+*Retained Size*: 
+
+### v8如何存储JS对象
+#### name properties
+v8在存储对象时，有两种表示方式。第一种，对象key和value都是array，第二种，字典类型。v8尽量避免使用字典存放对象，因为不好做inline cache 。
+very fast属性：有的属性直接存放在object里，叫in-object property。获取属性时不用去property store里找。
+快属性：去property store里找，属性和值以array的形式存放。获取属性时，现根据属性name去descriptor array找到index，再根据index找到实际的值。
+慢属性
+#### indexed properties
+
+
+
+
+
